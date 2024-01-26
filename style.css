@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+h1{
+    border-width:5px;  
+    border-style:dotted solid double dashed;
+font-family: 'Neonderthaw', cursive;
+text-align: center;
+}
+body{
+background:url(https://img.freepik.com/free-vector/india-flag-background-design_46250-2207.jpg?size=626&ext=jpg) no-repeat center center fixed;
+  background-size: cover;}
+.day{font-family: 'Quicksand', monospace;
+ border-width:5px;  
+    border-style:dotted solid;}
+.h{ border-width:5px;  
+    border-style:double solid;
+font-family: 'Comforter', garamond;}
+.p{font-family: 'Cinzel', papyrus;
+border-width:5px;  
+    border-style:groove;}
